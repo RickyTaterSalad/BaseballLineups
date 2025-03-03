@@ -20,14 +20,14 @@
 
 | Order | Name | Number | Position |
 | --- | --- | --- | --- |
-| 1   | Alan | 14  | SS  |
+| 1   | Alan | 14  | 3B  |
 | 2   | Jake | 8   | 1B  |
 | 3   | Ethan R | 23  | P   |
 | 4   | Gabreial | 11  |     |
 | 5   | Brycen | 21  | CF  |
 | 6   | Tyler | 96  | C   |
 | 7   | Olly | 1   |     |
-| 8   | Cade | 25  | 3B  |
+| 8   | Cade | 25  | SS  |
 | 9   | Sal | 50  | 2B  |
 | 10  | Ethan M | 9   | LF  |
 | 11  | Jack | 5   | RF  |
