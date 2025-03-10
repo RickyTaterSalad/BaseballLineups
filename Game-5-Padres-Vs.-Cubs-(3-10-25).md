@@ -1,4 +1,4 @@
-# Game 4 Cubs Vs. Giants (3-7-25)
+# Game 4 Padres Vs. Cubs (3-10-25)
 
 # 1-2 Inning
 
