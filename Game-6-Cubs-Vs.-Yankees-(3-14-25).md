@@ -1,4 +1,4 @@
-# Game 4 Padres Vs. Cubs (3-10-25)
+# Game 6 Cubs Vs. Yankees (3-14-25)
 
 # 1-2 Inning
 
@@ -10,11 +10,12 @@
 | 4   | Gabreial Lyons | 11  | P   |
 | 5   | Brycen Salmon | 21  | 1B  |
 | 6   | Tyler Martignoni | 96  | SS  |
-| 7   | Olly Cuevas | 1   | C   |
+| 7   | Sal Luna | 50  | RF  |
 | 8   | Cade Salmon | 25  | LF  |
-| 9   | Sal Luna | 50  | RF  |
+| 9   | Olly Cuevas | 1   | C   |
 | 10  | Ethan Martinez | 9   |     |
 | 11  | Jack Lopez | 5   |     |
+| 12  | Cancelled | 58  |     |
 
 # 3rd+
 
@@ -26,8 +27,9 @@
 | 4   | Gabreial Lyons | 11  |     |
 | 5   | Brycen Salmon | 21  | CF  |
 | 6   | Tyler Martignoni | 96  | C   |
-| 7   | Olly Cuevas | 1   |     |
+| 7   | Sal Luna | 50  |     |
 | 8   | Cade Salmon | 25  | SS  |
-| 9   | Sal Luna | 50  | 2B  |
+| 9   | Olly Cuevas | 1   | 2B  |
 | 10  | Ethan Martinez | 9   | LF  |
 | 11  | Jack Lopez | 5   | RF  |
+| 12  | Cancelled | 58  |     |
