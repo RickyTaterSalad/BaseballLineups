@@ -20,11 +20,11 @@
 
 | Order | Name | Number | Position |
 | --- | --- | --- | --- |
-| 1   | Jake Olsen | 8   | CF  |
+| 1   | Jake Olsen | 8   | 1B  |
 | 2   | Ethan Rivera | 23  | P   |
 | 3   | Tyler Martignoni | 96  | C  |
 | 4   | Gabreial Lyons | 11  |  3B |
-| 5   | Brycen Salmon | 21  | 1B  |
+| 5   | Brycen Salmon | 21  | CF  |
 | 6   | Alan Del Rio | 14  | SS  |
 | 7   | Sal Luna | 50  |  LF  |
 | 8   | Olly Cuevas | 1   | 2B  |
