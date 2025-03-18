@@ -13,8 +13,7 @@
 | 7   | Sal Luna | 50  |     |
 | 8   | Olly Cuevas | 1   | RF  |
 | 9   | Cade Salmon | 25  | LF  |
-| 10  | Ethan Martinez | 9   | 2B  |
-| 11  | Jack Lopez | 5   |     |
+| 10  | Ethan Martinez | 9   | 2B |
 
 # 2nd Inning
 
@@ -25,12 +24,11 @@
 | 3   | Ethan Rivera | 23  | P   |
 | 4   | Gabreial Lyons | 11  |   |
 | 5   | Brycen Salmon | 21  | CF   |
-| 7   | Tyler Martignoni | 96  |   |
+| 7   | Tyler Martignoni | 96  |  2B |
 | 7   | Sal Luna | 50  |  1B   |
 | 8   | Olly Cuevas | 1   | 3B  |
 | 9   | Cade Salmon | 25  | SS  |
-| 10  | Ethan Martinez | 9   | RF  |
-| 11  | Jack Lopez | 5   |   2B  |
+| 10  | Ethan Martinez | 9   | RF |
 
 
 # 3rd+
@@ -44,7 +42,6 @@
 | 5   | Brycen Salmon | 21  | SS   |
 | 7   | Tyler Martignoni | 96  | C  |
 | 7   | Sal Luna | 50  |  3B   |
-| 8   | Olly Cuevas | 1   |  |
+| 8   | Olly Cuevas | 1   |  LF |
 | 9   | Cade Salmon | 25  | CF |
 | 10  | Ethan Martinez | 9   |   |
-| 11  | Jack Lopez | 5   |   LF  |
