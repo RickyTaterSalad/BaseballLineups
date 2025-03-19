@@ -14,7 +14,6 @@
 | 8   | Olly Cuevas | 1   | LF  |
 | 9   | Cade Salmon | 25  | 2B  |
 | 10  | Ethan Martinez | 9   | RF |
-| 11  | Jack Lopez | 5   |     |
 
 # 3+ Inning
 
@@ -30,4 +29,3 @@
 | 8   | Olly Cuevas | 1   | 2B  |
 | 9   | Cade Salmon | 25  | RF  |
 | 10  | Ethan Martinez | 9   |  |
-| 11  | Jack Lopez | 5   |     |
