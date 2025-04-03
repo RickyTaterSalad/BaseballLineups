@@ -5,16 +5,16 @@
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Olly Cuevas      | 1   |     |
-| 2   | Ethan Rivera     | 23  | LF  |
+| 2   | Ethan Rivera     | 23  | SS  |
 | 3   | Jake Olsen       | 8   | 1B  |
 | 4   | Brycen Salmon    | 21  | C   |
 | 5   | Gabreial Lyons   | 11  |     |
-| 6   | Tyler Martignoni | 96  | SS  |
-| 7   | Alan Del Rio     | 14  | 3B  |
+| 6   | Tyler Martignoni | 96  | 3B  |
+| 7   | Alan Del Rio     | 14  | LF  |
 | 8   | Sal Luna         | 50  | P   |
 | 9   | Ethan Martinez   | 9   | 2B  |
-| 10  | Cade Salmon      | 25  | RF  |
-| 11  | Jack Lopez 	     | 5   | CF  |
+| 10  | Cade Salmon      | 25  | CF  |
+| 11  | Jack Lopez 	     | 5   | RF  |
 
 
 # 2nd Inning
@@ -38,14 +38,14 @@
 
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
-| 1   | Olly Cuevas      | 1   | 3B  |
+| 1   | Olly Cuevas      | 1   | RF  |
 | 2   | Ethan Rivera     | 23  | P   |
 | 3   | Jake Olsen       | 8   | SS  |
 | 4   | Brycen Salmon    | 21  | C   |
 | 5   | Gabreial Lyons   | 11  | 1B  |
-| 6   | Tyler Martignoni | 96  | LF  |
-| 7   | Alan Del Rio     | 14  | RF  |
-| 8   | Sal Luna         | 50  | CF  |
-| 9   | Ethan Martinez   | 9   |     |
+| 6   | Tyler Martignoni | 96  | CF  |
+| 7   | Alan Del Rio     | 14  | 3B  |
+| 8   | Sal Luna         | 50  |     |
+| 9   | Ethan Martinez   | 9   | LF  |
 | 10  | Cade Salmon      | 25  | 2B  |
 | 11  | Jack Lopez 	     | 5   |     |
