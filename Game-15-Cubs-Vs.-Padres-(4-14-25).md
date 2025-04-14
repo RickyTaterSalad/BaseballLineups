@@ -54,8 +54,8 @@
 | Order | Name | Number | Position |
 | --- | --- 			 | --- | --- |
 | 1   | Tyler Martignoni | 96  |     |
-| 2   | Alan Del Rio     | 14  | LF  |
-| 3   | Brycen Salmon    | 21  | 1B  |
+| 2   | Alan Del Rio     | 14  | 1B  |
+| 3   | Brycen Salmon    | 21  | LF  |
 | 4   | Olly Cuevas      | 1   | SS  |
 | 5   | Sal Luna         | 50  | 3B  |
 | 6   | Gabreial Lyons   | 11  | CF  |
