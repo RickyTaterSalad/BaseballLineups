@@ -2,7 +2,7 @@
 
 # 1st Inning
 
-| Order | Name | Number | Position   |
+| Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Jake Olsen       | 8   | 1B  |
 | 2   | Ethan Rivera     | 23  | C   |
@@ -18,7 +18,7 @@
 
 # 2nd Inning
 
-| Order | Name | Number | Position   |
+| Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Jake Olsen       | 8   | C   |
 | 2   | Ethan Rivera     | 23  | 1B  |
@@ -34,30 +34,30 @@
 
 # 3rd Inning
 
-| Order | Name | Number | Position   |
+| Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
-| 1   | Jake Olsen       | 8   | CF  |
+| 1   | Jake Olsen       | 8   | 3B  |
 | 2   | Ethan Rivera     | 23  | P   |
 | 3   | Tyler Martignoni | 96  | C   |
-| 4   | Alan Del Rio     | 14  | LF  |
-| 5   | Gabreial Lyons   | 11  |     |
+| 4   | Alan Del Rio     | 14  |     |
+| 5   | Gabreial Lyons   | 11  | CF  |
 | 6   | Brycen Salmon    | 21  | 1B  |
 | 7   | Olly Cuevas      | 1   | SS  |
-| 8   | Sal Luna         | 50  | 3B  |
+| 8   | Sal Luna         | 50  | LF  |
 | 9   | Cade Salmon      | 25  | 2B  |
 | 10  | Jack Lopez       | 5   |     |
 | 11  | Ethan Martinez   | 9   | RF  |
 
 # 4+ Inning
 
-| Order | Name | Number | Position   |
+| Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Jake Olsen       | 8   | P   |
 | 2   | Ethan Rivera     | 23  | C   |
-| 3   | Gabreial Lyons   | 11  | SS  |
+| 3   | Gabreial Lyons   | 11  | 1B  |
 | 4   | Tyler Martignoni | 96  | 3B  |
-| 5   | Alan Del Rio     | 14  |     |
-| 6   | Brycen Salmon    | 21  | 1B  |
+| 5   | Alan Del Rio     | 14  | SS  |
+| 6   | Brycen Salmon    | 21  |     |
 | 7   | Olly Cuevas      | 1   | CF  |
 | 8   | Sal Luna         | 50  | 2B  |
 | 9   | Cade Salmon      | 25  | RF  |
