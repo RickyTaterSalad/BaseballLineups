@@ -4,8 +4,8 @@
 
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
-| 1   | Jake Olsen       | 8   | 1B  |
-| 2   | Ethan Rivera     | 23  | C   |
+| 1   | Jake Olsen       | 8   | C   |
+| 2   | Ethan Rivera     | 23  | 1B  |
 | 3   | Gabreial Lyons   | 11  | SS  |
 | 4   | Tyler Martignoni | 96  | 3B  |
 | 5   | Alan Del Rio     | 14  | CF  |
