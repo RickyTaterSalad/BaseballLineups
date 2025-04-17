@@ -5,8 +5,8 @@
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Jake Olsen       | 8   | C   |
-| 2   | Ethan Rivera     | 23  | 1B  |
-| 3   | Gabreial Lyons   | 11  | SS  |
+| 2   | Ethan Rivera     | 23  | SS  |
+| 3   | Gabreial Lyons   | 11  | 1B  |
 | 4   | Tyler Martignoni | 96  | 3B  |
 | 5   | Alan Del Rio     | 14  | CF  |
 | 6   | Brycen Salmon    | 21  | P   |
@@ -21,8 +21,8 @@
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
 | 1   | Jake Olsen       | 8   | C   |
-| 2   | Ethan Rivera     | 23  | 1B  |
-| 3   | Gabreial Lyons   | 11  | SS  |
+| 2   | Ethan Rivera     | 23  | SS  |
+| 3   | Gabreial Lyons   | 11  | 1B  |
 | 4   | Tyler Martignoni | 96  | 3B  |
 | 5   | Alan Del Rio     | 14  | CF  |
 | 6   | Brycen Salmon    | 21  | P   |
@@ -36,30 +36,30 @@
 
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
-| 1   | Jake Olsen       | 8   | 3B  |
+| 1   | Jake Olsen       | 8   | C   |
 | 2   | Ethan Rivera     | 23  | P   |
-| 3   | Tyler Martignoni | 96  | C   |
+| 3   | Tyler Martignoni | 96  | 3B  |
 | 4   | Alan Del Rio     | 14  |     |
 | 5   | Gabreial Lyons   | 11  | 1B  |
-| 6   | Brycen Salmon    | 21  |     |
+| 6   | Brycen Salmon    | 21  | CF  |
 | 7   | Olly Cuevas      | 1   | SS  |
 | 8   | Sal Luna         | 50  | LF  |
 | 9   | Cade Salmon      | 25  | 2B  |
-| 10  | Jack Lopez       | 5   | CF  |
+| 10  | Jack Lopez       | 5   |     |
 | 11  | Ethan Martinez   | 9   | RF  |
 
 # 4+ Inning
 
 | Order | Name | Number  | Position  |
 | --- | --- 			 | --- | --- |
-| 1   | Jake Olsen       | 8   | P   |
-| 2   | Ethan Rivera     | 23  | C   |
+| 1   | Jake Olsen       | 8   | C   |
+| 2   | Ethan Rivera     | 23  | P   |
 | 3   | Gabreial Lyons   | 11  | 1B  |
 | 4   | Tyler Martignoni | 96  | 3B  |
-| 5   | Alan Del Rio     | 14  | SS  |
+| 5   | Alan Del Rio     | 14  | LF  |
 | 6   | Brycen Salmon    | 21  | CF  |
-| 7   | Olly Cuevas      | 1   | LF  |
-| 8   | Sal Luna         | 50  | 2B  |
+| 7   | Olly Cuevas      | 1   | 2B  |
+| 8   | Sal Luna         | 50  | SS  |
 | 9   | Cade Salmon      | 25  | RF  |
 | 10  | Jack Lopez       | 5   |     |
 | 11  | Ethan Martinez   | 9   |     |
