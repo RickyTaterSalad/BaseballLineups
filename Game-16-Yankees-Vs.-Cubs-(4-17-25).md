@@ -16,6 +16,7 @@
 | 10  | Jack Lopez       | 5   | RF  |
 | 11  | Ethan Martinez   | 9   |     |
 
+
 # 2nd Inning
 
 | Order | Name | Number  | Position  |
@@ -42,8 +43,8 @@
 | 4   | Alan Del Rio     | 14  |     |
 | 5   | Gabreial Lyons   | 11  | 1B  |
 | 6   | Brycen Salmon    | 21  | CF  |
-| 7   | Olly Cuevas      | 1   | SS  |
-| 8   | Sal Luna         | 50  | LF  |
+| 7   | Olly Cuevas      | 1   | LF  |
+| 8   | Sal Luna         | 50  | SS  |
 | 9   | Cade Salmon      | 25  | 2B  |
 | 10  | Jack Lopez       | 5   |     |
 | 11  | Ethan Martinez   | 9   | RF  |
@@ -56,9 +57,9 @@
 | 2   | Ethan Rivera     | 23  | P   |
 | 3   | Gabreial Lyons   | 11  | 1B  |
 | 4   | Tyler Martignoni | 96  | 3B  |
-| 5   | Alan Del Rio     | 14  | LF  |
+| 5   | Alan Del Rio     | 14  | 2B  |
 | 6   | Brycen Salmon    | 21  | CF  |
-| 7   | Olly Cuevas      | 1   | 2B  |
+| 7   | Olly Cuevas      | 1   | LF  |
 | 8   | Sal Luna         | 50  | SS  |
 | 9   | Cade Salmon      | 25  | RF  |
 | 10  | Jack Lopez       | 5   |     |
