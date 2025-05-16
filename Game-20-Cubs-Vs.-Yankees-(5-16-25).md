@@ -76,8 +76,8 @@
 | 2   | Ethan Rivera     | 23  | C   |
 | 3   | Tyler Martignoni | 96  | SS  |
 | 4   | Brycen Salmon    | 21  | P   |
-| 5   | Sal Luna         | 50  | 2B  |
-| 6   | Alan Del Rio     | 14  | CF  |
+| 5   | Sal Luna         | 50  | CF  |
+| 6   | Alan Del Rio     | 14  | 2B  |
 | 7   | Gabreial Lyons   | 11  | 3B  |
 | 8   | Jack Lopez       | 5   | RF  |
 | 9   | Olly Cuevas      | 1   | LF  |
