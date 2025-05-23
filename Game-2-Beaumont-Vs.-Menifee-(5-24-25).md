@@ -51,7 +51,7 @@ Substitutions
 
 	1. Jax Sumpter `C`
 	2. Brayden Hoyle `Bench`
-	3. Macks Martinez `CF`
+	3. Jaxson Adame `CF`
 	4. Keanu Banks `RF`
  
 -  Kenny Banks Pitching
