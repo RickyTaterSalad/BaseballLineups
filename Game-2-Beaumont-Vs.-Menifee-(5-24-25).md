@@ -27,7 +27,7 @@
 
 ## Notes
 
-Pitching Order
+Pitching
 
 1. Brycen Salmon `20 Max Pitches`
 2. Macks Martinez `20 Max Pitches`
