@@ -44,8 +44,8 @@ Substitutions
 - Jaxson Adame Pitching
 
 	1. Brycen Salmon `Bench`
-	2.  Keanu Banks `CF`
-	3.  Macks Martinez `1B`
+	2. Keanu Banks `CF`
+	3. Macks Martinez `1B`
 	
 - Ethan Rivera Pitching
 
