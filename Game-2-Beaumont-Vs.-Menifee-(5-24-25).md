@@ -4,25 +4,25 @@
 
 | Order | Name            | Number   | Position |
 | ------| ----------------| ---------| ---------|
-| 1     | Kenny Banks     |          | 3B       |
-| 2     | Brayden Hoyle   |          | RF       |
-| 3     | Jaxson Adame    |          | CF       |
-| 4     | Jacob Diaz      |          | LF       |
-| 5     | Ethan Rivera    | 23       | C        |
-| 6     | Macks Martinez  |          | 1B       |
-| 7     | Thiago Alduenda |          | 2B       |
-| 8     | Aiden Lopez     |          | SS       |
-| 9     | Brycen Salmon   |          |  P       |
+| 1     | Kenny Banks     |  1       | 3B       |
+| 2     | Brayden Hoyle   |  28      | RF       |
+| 3     | Jaxson Adame    |  99      | CF       |
+| 4     | Jacob Diaz      |  44      | LF       |
+| 5     | Ethan Rivera    |  23      | C        |
+| 6     | Macks Martinez  |  38      | 1B       |
+| 7     | Thiago Alduenda |  26      | 2B       |
+| 8     | Aiden Lopez     |  7       | SS       |
+| 9     | Brycen Salmon   |  21      |  P       |
 
 
 ## Bench
 
 | Name             | Number   |
 | -----------------| ---------|
-| Keanu Banks      |          |
-| Jax Sumpter      |          |
+| Keanu Banks      |   3      |
+| Jax Sumpter      |   17     |
 | Matthew Miranda  |          |
-| Matthew Garcia   |          |
+| Matthew Garcia   |   25     |
 
 
 ## Notes
