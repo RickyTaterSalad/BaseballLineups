@@ -33,35 +33,24 @@ Pitching
 2. Macks Martinez `20 Max Pitches`
 3. Jaxson Adame `75 Max`
 4. Ethan Rivera `20 Max Pitches`
-5. Kenny Banks `Not on pitching list`
 
 Substitutions
 
 - Macks Martinez Pitching
-
-	1. Brycen Salmon `1B`
-	   
+	- Brycen Salmon `1B`
+	   <br/>
 - Jaxson Adame Pitching
 
-	1. Brycen Salmon `Bench`
-	2. Keanu Banks `CF`
-	3. Macks Martinez `1B`
-	
+	- Brycen Salmon `Bench`
+	- Keanu Banks `CF`
+	- Macks Martinez `1B`
+	<br/>
 - Ethan Rivera Pitching
-
-	1. Jax Sumpter `C`
-	2. Brayden Hoyle `Bench`
-	3. Jaxson Adame `CF`
-	4. Keanu Banks `RF`
- 
--  Kenny Banks Pitching
-
-	1. Jax Sumpter `Bench`
-	2. Ethan Rivera `C`
-	3. Jacob Diaz `3B`
-	4. Keanu Banks `LF`
-	5. Matthew Garcia `RF`
-
+	- Jax Sumpter `C`
+	- Brayden Hoyle `Bench`
+	- Jaxson Adame `CF`
+	- Keanu Banks `RF`
+ <br/>
 
 
 
